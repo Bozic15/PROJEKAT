@@ -32,6 +32,39 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Armour.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Demage.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Game.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Granade.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Map.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Mode.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Player.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Round.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Score.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Team.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Weapon.hpp">
+			<Option target="Debug" />
+		</Unit>
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
